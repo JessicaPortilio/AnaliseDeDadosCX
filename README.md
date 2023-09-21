@@ -8,23 +8,11 @@ Nos primeiros meses, Hadassah estava focada em entender os gostos de seus client
 
 No final de cada mês, Hadassah registrava suas vendas em seu fiel arquivo CSV. Ela logo percebeu que "Produto B" estava se destacando como o mais vendido, proporcionando um impulso constante para seus lucros. 
 
-Janeiro             Fevereiro
-Produto B 569       Produto B 1584
-Produto A 372       Produto A 938
-Produto E 61        Produto D 495
-		    Produto E 61					
-Total:1.002,54      2.076,72
 
 # Capítulo 2: Enfrentando Desafios
 
 No entanto, nem tudo era perfeito. Hadassah enfrentou seu primeiro desafio em março, quando o tempo chuvoso chegou na pequena cidade Eternal life e resultou no menor valor total de vendas do ano. Ela decidiu usar essa queda nas vendas como uma oportunidade para reavaliar sua estratégia.
 
-Março               Abril              Maio             Junho
-Produto E  291      Produto B 738      Produto C 426    Produto C 940
-Produto B  139      Produto D 641      Produto B 378    Produto A 660
-                                       Produto E 93     Produto B 648
-                                                        Produto D 211
-Total: 429,57       1.379,11           897,63           2.458,82
 
 Hadassah também notou que o mês de junho teve maior valor total de vendas, graças ao aumento das vendas de "Produto C". Ela usou essa informação para tomar decisões de estoque mais informadas e expandir sua oferta de produto.
 
